@@ -18,6 +18,7 @@
         <Command>deathmessage</Command>
         <Command>rules</Command>
         <Command>donate</Command>
+        <Command>kits</Command>
       </Commands>
       <ParentGroups />
     </Group>
