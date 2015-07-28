@@ -17,6 +17,7 @@
         <Command>kit.build</Command>
         <Command>deathmessage</Command>
         <Command>rules</Command>
+        <Command>donate</Command>
       </Commands>
       <ParentGroups />
     </Group>
