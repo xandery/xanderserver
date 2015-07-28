@@ -16,6 +16,7 @@
         <Command>kit.survival</Command>
         <Command>kit.build</Command>
         <Command>deathmessage</Command>
+        <Command>rules</Command>
       </Commands>
       <ParentGroups />
     </Group>
