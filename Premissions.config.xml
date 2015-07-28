@@ -56,6 +56,7 @@
         <Command>deathmessage</Command>
         <Command>jail</Command>
         <Command>kit.*</Command>
+        <Command>color.magenta</Command>
       </Commands>
       <ParentGroups />
     </Group>
