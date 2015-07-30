@@ -96,7 +96,7 @@
         <Command>kit.survival</Command>
         <Command>kit.build</Command>
         <Command>kit.D2</Command>
-        <Command>color.yellow</Command>
+        <Command>color.red</Command>
       </Commands>
       <ParentGroups />
     </Group>
