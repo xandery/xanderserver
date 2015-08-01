@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Permissions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<RocketPermissions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <DefaultGroupId>default</DefaultGroupId>
   <Groups>
     <Group>
@@ -47,7 +47,7 @@
       <Members>
         <Member>76561198006092022</Member>
       </Members>
-      <Commands>
+      <Commands>m
         <Command>p</Command>
         <Command>p.reload</Command>
         <Command>tp</Command>
@@ -122,4 +122,4 @@
       <ParentGroups />
     </Group>
   </Groups>
-</Permissions>
+</RocketPermissions>
