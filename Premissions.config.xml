@@ -5,7 +5,6 @@
     <Group>
       <Id>default</Id>
       <DisplayName>Guest</DisplayName>
-      <Members />
       <Commands>
         <Command>p</Command>
         <Command>reward</Command>
