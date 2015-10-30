@@ -22,6 +22,30 @@
       <ParentGroups />
     </Group>
     <Group>
+      <Id>Regular</Id>
+      <DisplayName>Regular</DisplayName>
+      <Members>
+         <Member>76561198243289976</Member>
+        <Member />
+      </Members>
+      <Commands>
+        <Command>color.#EE82EE</Command>
+        <Command>p</Command>
+        <Command>reward</Command>
+        <Command>balance</Command>
+        <Command>pay</Command>
+        <Command>rocket</Command>
+        <Command>color.white</Command>
+        <Command>kit.survival</Command>
+        <Command>kit.build</Command>
+        <Command>deathmessage</Command>
+        <Command>rules</Command>
+        <Command>donate</Command>
+        <Command>kits</Command>
+      </Commands>
+      <ParentGroups />
+    </Group>
+    <Group>
       <Id>moderator</Id>
       <DisplayName>Moderator</DisplayName>
       <Members>
