@@ -36,7 +36,6 @@
         <Command>balance</Command>
         <Command>pay</Command>
         <Command>rocket</Command>
-        <Command>color.white</Command>
         <Command>kit.survival</Command>
         <Command>kit.build</Command>
         <Command>deathmessage</Command>
