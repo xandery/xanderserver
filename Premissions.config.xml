@@ -31,9 +31,10 @@
          <Member>76561198214026591</Member>
          <Member>76561198160598899</Member>
          <Member>76561198058487267</Member>
+         <Member>76561198173865217</Member>
       </Members>
       <Commands>
-        <Command>color.#EE82EE</Command>
+        <Command>color.#FFDAB9</Command>
         <Command>p</Command>
         <Command>reward</Command>
         <Command>balance</Command>
