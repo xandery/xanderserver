@@ -34,7 +34,7 @@
          <Member>76561198173865217</Member>
       </Members>
       <Commands>
-        <Command>color.#FFDAB9</Command>
+        <Command>color.#008080</Command>
         <Command>p</Command>
         <Command>reward</Command>
         <Command>balance</Command>
