@@ -123,7 +123,7 @@
         <Command>kit.survival</Command>
         <Command>kit.build</Command>
         <Command>kit.D2</Command>
-        <Command>color.yellow</Command>
+        <Command>color.black</Command>
       </Commands>
       <ParentGroups />
     </Group>
@@ -144,7 +144,7 @@
         <Command>kit.survival</Command>
         <Command>kit.build</Command>
         <Command>kit.D3</Command>
-        <Command>color.yellow</Command>
+        <Command>color.black</Command>
       </Commands>
       <ParentGroups />
     </Group>
